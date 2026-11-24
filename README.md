@@ -1,4 +1,4 @@
-# Digital Store API — Projeto Final de Back-end
+# Digital Store API | Projeto Final de Back-end
 
 API REST da **Digital Store**, desenvolvida conforme o [escopo oficial do projeto](https://github.com/digitalcollegebr/projeto-backend).
 
@@ -70,7 +70,7 @@ Ou use um MySQL local e ajuste `DB_HOST`, `DB_USER`, `DB_PASSWORD` e `DB_NAME` n
 npx sequelize-cli db:create
 ```
 
-**Opção B — SQLite (sem instalar nada)**
+**Opção B — SQLite (sem instalar)**
 
 No `.env`, defina:
 
